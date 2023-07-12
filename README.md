@@ -2,4 +2,6 @@
 <br />
 # GUÍA SOBRE ANÁLISIS EXPLORATORIO | YOUTUBE
 
+### PARTE 1: 
+
 [![VER VIDEO AQUÍ](https://img.youtube.com/vi/zxopbHkVATQ/0.jpg)](https://www.youtube.com/watch?v=zxopbHkVATQ)
