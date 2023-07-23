@@ -1,4 +1,4 @@
-![Rojo Artes en Línea Educación Dibujo YouTube Pantalla Anuncio (5)](https://github.com/luigianalytics/analisis-exploratorio-salarios/assets/139259326/a24984d9-2f3b-4ad0-84eb-559d199dd64a)
+![Rojo Artes en Línea Educación Dibujo YouTube Pantalla Anuncio (6)](https://github.com/luigianalytics/analisis-exploratorio-salarios/assets/139259326/1301b3f8-5c8e-414b-9493-33653452df14)
 <br />
 # GUÍA SOBRE ANÁLISIS EXPLORATORIO | YOUTUBE
 
